@@ -1,0 +1,21 @@
+﻿  client.cpp
+C:\Users\Assassin_J\Desktop\2151105cyj_Client\client\client.cpp(67,9): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Assassin_J\Desktop\2151105cyj_Client\client\client.cpp(106,9): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Assassin_J\Desktop\2151105cyj_Client\client\client.cpp(125,10): warning C4101: “vdata”: 未引用的局部变量
+C:\Users\Assassin_J\Desktop\2151105cyj_Client\client\client.cpp(205,9): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Assassin_J\Desktop\2151105cyj_Client\client\client.cpp(256,25): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Assassin_J\Desktop\2151105cyj_Client\client\client.cpp(291,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Assassin_J\Desktop\2151105cyj_Client\client\client.cpp(324,8): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Assassin_J\Desktop\2151105cyj_Client\client\client.cpp(340,8): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Assassin_J\Desktop\2151105cyj_Client\client\client.cpp(346,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Assassin_J\Desktop\2151105cyj_Client\client\client.cpp(356,12): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\Assassin_J\Desktop\2151105cyj_Client\client\client.cpp(370,8): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Assassin_J\Desktop\2151105cyj_Client\client\client.cpp(386,8): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Assassin_J\Desktop\2151105cyj_Client\client\client.cpp(400,19): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Assassin_J\Desktop\2151105cyj_Client\client\client.cpp(408,12): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\Assassin_J\Desktop\2151105cyj_Client\client\client.cpp(293,6): warning C4101: “key”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 44 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  client.vcxproj -> C:\Users\Assassin_J\Desktop\2151105cyj_Client\x64\Release\client.exe
